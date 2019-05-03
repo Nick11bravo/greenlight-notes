@@ -1,0 +1,1 @@
+{"title":"else statements exam","message":"if (/*some condition here */) {\n//run some code here\nconsole.log('this code ran!' );\n}else if (/* another condition to check*/) {\n// run some code here if conditions is true\n}else{\n//run some code if all conditions are false","id":"b77ac989-5156-42b7-bb53-25f9558d615e","date":"2019-05-03T01:02:02.715Z"}
