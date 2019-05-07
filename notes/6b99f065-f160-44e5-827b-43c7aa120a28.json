@@ -1,0 +1,1 @@
+{"title":"Functions return sta","message":"Functions optionally have a return statement\nthe return statement will give value to a function call(pull value to parent scope);\nReturn statements can only be used in a function body. any code after the return statement will not be exscuted ","id":"6b99f065-f160-44e5-827b-43c7aa120a28","date":"2019-05-07T00:19:26.769Z"}
