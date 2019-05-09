@@ -1,0 +1,1 @@
+{"title":"Understanding errors","message":"*syntaxerror: unexpected token 27:4\n* ReferenceError; test is not defind\n* at eval:27:1\n* at eval\n* at new Promise\n* TypeError: Cannot read property \"0\" of undefined\n* at eval:28:18\n* at eval\n* at new Promise","id":"2ff082d3-72a2-4e1b-9e31-7b7b297e986f","date":"2019-05-09T00:43:10.657Z"}
